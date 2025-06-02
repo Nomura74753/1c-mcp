@@ -5,3 +5,4 @@ description = "Curated list of MCP servers for 1C:Enterprise ecosystem | Кат�
 requires-python = ">=3.10"
 # drop an unused branch
 # drop an unused branch
+# handle the edge case from the last release
